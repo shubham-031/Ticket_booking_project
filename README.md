@@ -1,26 +1,7 @@
 
 # 🎬 CineBook - MOVIE TICKET BOOKING MANAGEMENT SYSTEM 
     ( Movie Booking & Theatre Management System)
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-Express-339933?logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-Database-47A248?logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/JWT-Authentication-orange"/>
-<img src="https://img.shields.io/badge/License-MIT-blue"/>
-
-</p>
-
-<p align="center">
-
-A Production-Ready <b>MERN Stack Movie Booking & Theatre Management Platform</b><br>
-designed to provide a seamless movie booking experience for customers while simplifying theatre operations through a centralized administrative dashboard.
-
-</p>
-
 ---
-
 # 🎯 Problem Statement
 
 Traditional movie ticket booking systems mainly focus on reserving seats and generating tickets. However, real-world theatre operations involve much more than ticket booking.
