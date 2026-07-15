@@ -129,3 +129,29 @@ To access the Administrative Dashboard without a theater-owner account:
 
 <img width="1912" height="911" alt="image" src="https://github.com/user-attachments/assets/e6929446-8c54-44cb-9d8c-ca55b960d13e" />
 
+<img width="1897" height="907" alt="image" src="https://github.com/user-attachments/assets/8ac90a3f-96ca-4a27-b41e-128b61423267" />
+
+<img width="1885" height="905" alt="image" src="https://github.com/user-attachments/assets/42135c1e-f5f9-437a-940c-04e034dec93e" />
+
+<img width="1855" height="902" alt="image" src="https://github.com/user-attachments/assets/8d8e0703-fdee-43b5-91aa-de05e56d1479" />
+
+<img width="1743" height="916" alt="image" src="https://github.com/user-attachments/assets/203c9a6d-3a7a-47d6-a99f-f6e0febef3c1" />
+
+<img width="1540" height="916" alt="image" src="https://github.com/user-attachments/assets/8aad8831-f1a8-4b7b-89c0-aa5f30568a8e" />
+
+<img width="1908" height="895" alt="image" src="https://github.com/user-attachments/assets/0e614067-3fc5-4f6d-abf6-2d267194f428" />
+
+<img width="1832" height="908" alt="image" src="https://github.com/user-attachments/assets/e7b9ab14-fd0c-4e20-a20a-1c050d7a1904" />
+
+<img width="993" height="835" alt="image" src="https://github.com/user-attachments/assets/f1a2beaa-9723-4471-879c-f90594ce37a6" />
+
+
+## ADMIN DASHBOARD
+
+
+
+
+
+
+
+
