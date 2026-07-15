@@ -1,6 +1,6 @@
 
 # 🎬 CineBook - MOVIE TICKET BOOKING MANAGEMENT SYSTEM 
-    ( Movie Booking & Theatre Management System)
+( Movie Booking & Theatre Management System)
 ---
 # 🎯 Problem Statement
 
