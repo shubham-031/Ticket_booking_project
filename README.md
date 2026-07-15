@@ -1,4 +1,4 @@
-# 🎬 CineBook: Advanced Movie Booking Ecosystem
+# 🎬 CineBook: Movie Booking Ecosystem
 
 ![MERN Stack](https://img.shields.io/badge/Stack-MERN-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
