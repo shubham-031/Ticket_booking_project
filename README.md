@@ -255,7 +255,240 @@ To access the Administrative Dashboard without a theater-owner account:
 
 
 
+# 📸 Project Demo
 
+## 👨‍💻 User Interface
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### 🏠 Home Page
+
+<img src="https://github.com/user-attachments/assets/e6929446-8c54-44cb-9d8c-ca55b960d13e" width="100%"/>
+
+</td>
+
+<td width="50%" align="center">
+
+### 🎬 Movies Listing
+
+<img src="https://github.com/user-attachments/assets/8ac90a3f-96ca-4a27-b41e-128b61423267" width="100%"/>
+
+</td>
+</tr>
+
+<tr><td colspan="2"><br><br></td></tr>
+
+<tr>
+<td align="center">
+
+### 🎥 Movie Details
+
+<img src="https://github.com/user-attachments/assets/42135c1e-f5f9-437a-940c-04e034dec93e" width="100%"/>
+
+</td>
+
+<td align="center">
+
+### 🪑 Seat Selection
+
+<img src="https://github.com/user-attachments/assets/8d8e0703-fdee-43b5-91aa-de05e56d1479" width="100%"/>
+
+</td>
+</tr>
+
+<tr><td colspan="2"><br><br></td></tr>
+
+<tr>
+<td align="center">
+
+### 🍿 Snacks & Add-ons
+
+<img src="https://github.com/user-attachments/assets/203c9a6d-3a7a-47d6-a99f-f6e0febef3c1" width="100%"/>
+
+</td>
+
+<td align="center">
+
+### 🚗 Parking Reservation
+
+<img src="https://github.com/user-attachments/assets/8aad8831-f1a8-4b7b-89c0-aa5f30568a8e" width="100%"/>
+
+</td>
+</tr>
+
+<tr><td colspan="2"><br><br></td></tr>
+
+<tr>
+<td align="center">
+
+### 📅 My Bookings
+
+<img src="https://github.com/user-attachments/assets/0e614067-3fc5-4f6d-abf6-2d267194f428" width="100%"/>
+
+</td>
+
+<td align="center">
+
+### 🎟️ Ticket Verification
+
+<img src="https://github.com/user-attachments/assets/e7b9ab14-fd0c-4e20-a20a-1c050d7a1904" width="100%"/>
+
+</td>
+</tr>
+
+<tr><td colspan="2"><br><br></td></tr>
+
+<tr>
+<td colspan="2" align="center">
+
+### 📱 QR Code Scanner
+
+<img src="https://github.com/user-attachments/assets/f1a2beaa-9723-4471-879c-f90594ce37a6" width="45%"/>
+
+</td>
+</tr>
+
+</table>
+
+---
+
+# 🛠️ Admin Dashboard
+
+<table>
+
+<tr>
+<td width="50%" align="center">
+
+### 📊 Dashboard Overview
+
+<img src="https://github.com/user-attachments/assets/a451a2d0-ce07-4b45-a2b8-ba3f349d2211" width="100%"/>
+
+</td>
+
+<td width="50%" align="center">
+
+### 🎬 Manage Movies
+
+<img src="https://github.com/user-attachments/assets/9d957a89-7d83-4caa-9e52-9779fa420e28" width="100%"/>
+
+</td>
+</tr>
+
+<tr><td colspan="2"><br><br></td></tr>
+
+<tr>
+<td align="center">
+
+### 🎭 Manage Shows
+
+<img src="https://github.com/user-attachments/assets/d1df6228-c88f-4cea-84f0-21fda8f62b53" width="100%"/>
+
+</td>
+
+<td align="center">
+
+### 🍿 Manage Snacks
+
+<img src="https://github.com/user-attachments/assets/9e5b536f-773b-42c2-93cb-609efdde2ef1" width="100%"/>
+
+</td>
+</tr>
+
+<tr><td colspan="2"><br><br></td></tr>
+
+<tr>
+<td align="center">
+
+### 🚗 Manage Parking
+
+<img src="https://github.com/user-attachments/assets/b9870f48-121a-42ae-8e0b-f533ff16d053" width="100%"/>
+
+</td>
+
+<td align="center">
+
+### 📈 Revenue Analytics
+
+<img src="https://github.com/user-attachments/assets/d4338a3a-0d2b-41fb-b09b-bebd2c81e1f1" width="100%"/>
+
+</td>
+</tr>
+
+<tr><td colspan="2"><br><br></td></tr>
+
+<tr>
+<td align="center">
+
+### 📊 Revenue Charts
+
+<img src="https://github.com/user-attachments/assets/4195fa7b-c34c-4852-8645-a4b675d19645" width="100%"/>
+
+</td>
+
+<td align="center">
+
+### 🎟️ Booking Management
+
+<img src="https://github.com/user-attachments/assets/63f58c8d-63c7-44a2-b30c-8ebbfef19e02" width="100%"/>
+
+</td>
+</tr>
+
+<tr><td colspan="2"><br><br></td></tr>
+
+<tr>
+<td align="center">
+
+### 👥 User Management
+
+<img src="https://github.com/user-attachments/assets/cd56bad1-cddd-448f-9a19-5e63d315573d" width="100%"/>
+
+</td>
+
+<td align="center">
+
+### 🔍 Ticket Scanner
+
+<img src="https://github.com/user-attachments/assets/73409498-a22b-4251-b325-e5bd42ade8e0" width="100%"/>
+
+</td>
+</tr>
+
+<tr><td colspan="2"><br><br></td></tr>
+
+<tr>
+<td align="center">
+
+### ✅ Ticket Verification Result
+
+<img src="https://github.com/user-attachments/assets/55f5116e-3948-4dcd-b783-f3c8e45f5fbc" width="100%"/>
+
+</td>
+
+<td align="center">
+
+### ⚙️ Admin Settings
+
+<img src="https://github.com/user-attachments/assets/a72fc89a-1691-46fb-b5be-47c12afaafeb" width="100%"/>
+
+</td>
+</tr>
+
+<tr><td colspan="2"><br><br></td></tr>
+
+<tr>
+<td colspan="2" align="center">
+
+### 📋 System Overview
+
+<img src="https://github.com/user-attachments/assets/017d6270-50c7-435a-b270-ed355292848d" width="55%"/>
+
+</td>
+</tr>
+
+</table>
 
 
 
