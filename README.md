@@ -510,6 +510,27 @@ The project is built using the **MERN Stack Architecture**, following a modular 
 </tr>
 
 <tr><td colspan="2"><br><br></td></tr>
+<tr><td colspan="2"><br><br></td></tr>
+
+<tr>
+<td align="center">
+
+### 🎥 Mail 1
+
+<img src="https://github.com/user-attachments/assets/f1b5f4ef-b08e-4a3d-9396-d68a647c0a63"  width="100%"/>
+
+
+</td>
+
+<td align="center">
+
+### 🎟️ mail 2
+
+<img src="https://github.com/user-attachments/assets/5693b424-0042-41a8-b693-d052891f84d3" width="100%"/>
+
+
+</td>
+</tr>
 
 <tr>
 <td colspan="2" align="center">
@@ -649,27 +670,7 @@ The project is built using the **MERN Stack Architecture**, following a modular 
 
 <tr><td colspan="2"><br><br></td></tr>
 
-<tr><td colspan="2"><br><br></td></tr>
 
-<tr>
-<td align="center">
-
-### 🎥 Mail 1
-
-<img src="https://github.com/user-attachments/assets/f1b5f4ef-b08e-4a3d-9396-d68a647c0a63"  width="100%"/>
-
-
-</td>
-
-<td align="center">
-
-### 🎟️ mail 2
-
-<img src="https://github.com/user-attachments/assets/5693b424-0042-41a8-b693-d052891f84d3" width="100%"/>
-
-
-</td>
-</tr>
 
 <tr>
 <td colspan="2" align="center">
