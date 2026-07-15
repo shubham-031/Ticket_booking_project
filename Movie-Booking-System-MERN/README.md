@@ -121,10 +121,9 @@ To access the Administrative Dashboard without a theater-owner account:
 ---
 
 ## 👨‍💻 Author
-**Vishal Sudha Arul**  
+**Shubham Jadhav**  
 *Full Stack Developer & UI/UX Enthusiast*
 
 ---
 
-## 📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
