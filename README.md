@@ -1,5 +1,6 @@
 
-# 🎬 CineBook - Full Stack Movie Booking & Theatre Management System
+# 🎬 CineBook - MOVIE TICKET BOOKING MANAGEMENT SYSTEM 
+    ( Movie Booking & Theatre Management System)
 
 <p align="center">
 
