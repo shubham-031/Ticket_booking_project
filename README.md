@@ -1,11 +1,14 @@
-### 🚀 Live Demo
+# 🎬 CineBook - Movie Ticket Booking Management System
 
-🌐 **Project Demo:** https://movie-booking-system-mern-fawn.vercel.app/
+### *A Full Stack MERN-Based Movie Booking & Theatre Management Platform*
 
-</p>
 ---
-# 🎬 CineBook - MOVIE TICKET BOOKING MANAGEMENT SYSTEM 
-( Movie Booking & Theatre Management System)
+
+## 🚀 Live Demo
+
+🌐 **Project Demo:**  
+👉 **https://movie-booking-system-mern-fawn.vercel.app/**
+
 ---
 # 🎯 Problem Statement
 
