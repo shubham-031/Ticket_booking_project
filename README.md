@@ -1,131 +1,248 @@
-# 🎬 CineBook: Movie Booking Ecosystem
+# 🎬 CineBook - Full Stack Movie Booking & Theatre Management System
 
-![MERN Stack](https://img.shields.io/badge/Stack-MERN-blue.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
-![UI](https://img.shields.io/badge/UI-Cinematic-red.svg)
+<p align="center">
 
-**CineBook** is a premium, production-grade Movie Ticket Booking platform built with the MERN stack. It features a cinematic, Netflix-inspired user interface, a robust administrative control center, and a seamless QR-based ticket verification system designed for real-world theater operations.
+![React](https://img.shields.io/badge/React-19-61DAFB?logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-Express-339933?logo=node.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-Database-47A248?logo=mongodb)
+![JWT](https://img.shields.io/badge/Auth-JWT-orange)
+![License](https://img.shields.io/badge/License-MIT-blue)
 
----
+</p>
 
-## 🌟 Key Pillars
+A **production-ready MERN Stack Movie Booking & Theatre Management Platform** that delivers a complete digital cinema experience for both customers and theatre administrators.
 
-### 🎥 1. Cinematic User Experience
-*   **Netflix-Inspired UI**: A high-end dark aesthetic with glassmorphic elements and professional typography.
-*   **Immersive Hero Section**: Dynamic "Ken Burns" effect sliders with smooth cross-fading transitions.
-*   **Interactive Movie Catalog**: Staggered entrance animations (`framer-motion`), real-time search, and genre filtering.
-*   **Modern Seat Selection**: A category-based interactive grid (Balcony, Gold, Silver) with real-time price calculation.
-
-### 🛡️ 2. Administrative Control Center
-*   **Authorized Bypass Access**: Secure administrative entry via a standard bypass mechanism (`123456`).
-*   **Full CRUD Management**: Comprehensive dashboards to manage Movies, Shows, Snacks, and Parking lots.
-*   **Real-time Analytics**: Visual data tracking for ticket sales, revenue generation, and theater occupancy.
-*   **Theater-Specific Assets**: Assign unique snacks and parking pricing to individual theaters.
-
-### 🎟️ 3. Smart Ticketing & Entry
-*   **QR Code Generation**: Every booking generates a unique, encrypted QR code for security.
-*   **Public Verification System**: A dedicated, login-free entry portal for theater staff to scan and verify tickets instantly.
-*   **Ticket Lifecycle**: Automatic status tracking (VALID → USED → COMPLETED) to prevent double entry.
-*   **Digital Downloads**: High-quality PDF ticket generation for offline use.
+The platform enables users to browse movies, reserve seats, purchase snacks, book parking, download QR-based tickets, and manage bookings, while providing administrators with a centralized dashboard for movie management, theatre operations, ticket verification, and revenue analytics.
 
 ---
 
-## 🛠 Tech Stack & Architecture
+# ✨ Features
 
-### **Frontend (The Experience)**
-- **React.js**: Functional components with Hooks and Context API.
-- **Framer Motion**: High-performance cinematic animations and transitions.
-- **Tailwind CSS**: Modern glassmorphic design system.
-- **Axios**: Centralized API management with custom interceptors for authentication.
-- **QRCode.react**: Dynamic QR generation.
-- **jsPDF & html2canvas**: Client-side ticket rendering.
+## 👨‍💻 Customer Features
 
-### **Backend (The Engine)**
-- **Node.js & Express.js**: Modular REST API architecture.
-- **MongoDB & Mongoose**: Relational data modeling in a NoSQL environment.
-- **JWT Authentication**: Secure user sessions.
-- **Security Middleware**: Role-based access control (RBAC) and admin bypass logic.
+✅ Authentication & Authorization
+
+- Secure User Login & Registration
+- JWT Authentication
+- Protected Routes
 
 ---
 
-## 📂 Project Structure
+✅ Movie Discovery
 
-```bash
-Movie-Booking-System-MERN/
-├── client/                 # React Frontend (Vite/CRA)
-│   ├── src/
-│   │   ├── api.js         # Centralized API Interceptor
-│   │   ├── pages/         # Cinematic UI Pages
-│   │   ├── components/    # Reusable UI Atoms
-│   │   └── App.js         # Routing & Global State
-│   └── package.json
+- Browse Latest Movies
+- Search Movies
+- Genre Filtering
+- Movie Details
+- Responsive UI
+
+---
+
+✅ Smart Booking
+
+- Show Selection
+- Interactive Seat Selection
+- Live Seat Availability
+- Automatic Price Calculation
+
+---
+
+✅ Add-ons
+
+- Snack Booking
+- Parking Reservation
+- Multiple Theatre Support
+
+---
+
+✅ Ticket Management
+
+- QR Code Ticket Generation
+- Download Ticket as PDF
+- My Bookings
+- Booking History
+- Ticket Verification
+
+---
+
+## 🛠️ Admin Features
+
+### Dashboard
+
+- Overall Statistics
+- Total Revenue
+- Active Shows
+- Ticket Analytics
+
+### Movie Management
+
+- Add Movie
+- Update Movie
+- Delete Movie
+- Manage Posters
+
+### Show Management
+
+- Manage Shows
+- Manage Show Slots
+- Theatre Assignment
+- Ticket Pricing
+
+### Snack Management
+
+- Add Snacks
+- Edit Snacks
+- Theatre-wise Snacks
+
+### Parking Management
+
+- Parking Slot Management
+- Theatre-wise Parking Pricing
+
+### Analytics
+
+- Revenue Analytics
+- Theatre Revenue Report
+- Booking Analytics
+- Ticket Statistics
+
+### Ticket Verification
+
+- QR Ticket Scanner
+- Verify Ticket
+- Prevent Duplicate Entry
+
+---
+
+# 🚀 Highlights
+
+- 🎬 Netflix Inspired Dark UI
+- ⚡ Smooth Animations using Framer Motion
+- 🎟 QR Code Based Digital Tickets
+- 📄 PDF Ticket Download
+- 🪑 Interactive Seat Selection
+- 🍿 Snack & Parking Booking
+- 📊 Real-time Revenue Analytics
+- 🔐 JWT Authentication
+- 📱 Fully Responsive Design
+- ⚙️ Complete Admin Dashboard
+
+---
+
+# 🏗️ Tech Stack
+
+## Frontend
+
+- React.js
+- React Router DOM
+- Tailwind CSS
+- Framer Motion
+- Axios
+- QRCode.react
+- jsPDF
+- html2canvas
+
+---
+
+## Backend
+
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
+- JWT Authentication
+- REST APIs
+
+---
+
+## Tools
+
+- Git
+- GitHub
+- VS Code
+- Postman
+
+---
+
+# 📁 Project Structure
+
+```text
+Movie-Booking-System-MERN
+
+├── client
 │
-├── server/                 # Node.js Backend
-│   ├── controllers/       # Business Logic
-│   ├── models/            # Database Schemas
-│   ├── routes/            # API Endpoints
-│   ├── middleware/        # Security & Auth Logic
-│   └── server.js          # Entry Point
+├── server
 │
-└── README.md
+├── README.md
+│
+└── package.json
 ```
 
 ---
 
-## ⚙️ Setup & Installation
+# ⚙️ Installation
 
-### **1. Clone the Repository**
+## Clone Repository
+
 ```bash
-git clone https://github.com/VishalSudhaArul/Movie-Booking-System-MERN.git
-cd Movie-Booking-System-MERN
+git clone https://github.com/yourusername/CineBook.git
 ```
 
-### **2. Backend Configuration**
+```bash
+cd CineBook
+```
+
+---
+
+## Backend
+
 ```bash
 cd server
+
 npm install
 ```
-Create a `.env` file in the `server` directory:
+
+Create `.env`
+
 ```env
-MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=your_secure_secret_key
 PORT=5000
+
+MONGO_URI=your_mongodb_uri
+
+JWT_SECRET=your_secret_key
 ```
-Start the server:
+
+Run
+
 ```bash
 npm start
 ```
 
-### **3. Frontend Configuration**
+---
+
+## Frontend
+
 ```bash
-cd ../client
+cd client
+
 npm install
-```
-Create a `.env` file in the `client` directory:
-```env
-REACT_APP_API_URL=http://localhost:5000
-```
-Start the application:
-```bash
+
 npm start
 ```
 
 ---
 
-## 🔐 Admin Access
-To access the Administrative Dashboard without a theater-owner account:
-1. Navigate to the **Admin** link in the navbar.
-2. Enter the authorized bypass password: `123456`.
-3. You will be granted full CRUD privileges for the session.
+# 🔐 Admin Login
+
+For demonstration purposes,
+
+```
+Password
+
+123456
+```
 
 ---
-
-## 👨‍💻 Author
-**Shubham Jadhav**  
-*Full Stack Developer *
-
----
-
 
 # 📸 Project Demo
 
