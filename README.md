@@ -125,4 +125,7 @@ To access the Administrative Dashboard without a theater-owner account:
 *Full Stack Developer *
 
 ---
+## 👨‍💻 SCREENSHOTS
+
+<img width="1912" height="911" alt="image" src="https://github.com/user-attachments/assets/e6929446-8c54-44cb-9d8c-ca55b960d13e" />
 
