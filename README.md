@@ -491,6 +491,182 @@ To access the Administrative Dashboard without a theater-owner account:
 </table>
 
 
+# 📸 Project Demo
+
+The following screenshots showcase the key features and user experience of the Movie Booking System.
+
+---
+
+## 🏠 Home Page
+
+<p align="center">
+<img src="IMAGE_LINK" width="90%">
+</p>
+
+---
+
+## 🎬 Browse Movies
+
+<p align="center">
+<img src="IMAGE_LINK" width="90%">
+</p>
+
+---
+
+## 🎥 Movie Details
+
+<p align="center">
+<img src="IMAGE_LINK" width="90%">
+</p>
+
+---
+
+## 🪑 Seat Selection
+
+<p align="center">
+<img src="IMAGE_LINK" width="90%">
+</p>
+
+---
+
+## 🍿 Food & Beverage Ordering
+
+<p align="center">
+<img src="IMAGE_LINK" width="90%">
+</p>
+
+---
+
+## 🚗 Parking Booking
+
+<p align="center">
+<img src="IMAGE_LINK" width="90%">
+</p>
+
+---
+
+## 📋 Booking Summary
+
+<p align="center">
+<img src="IMAGE_LINK" width="90%">
+</p>
+
+---
+
+## 💳 Payment
+
+<p align="center">
+<img src="IMAGE_LINK" width="90%">
+</p>
+
+---
+
+## 🎟️ My Bookings
+
+<p align="center">
+<img src="IMAGE_LINK" width="90%">
+</p>
+
+---
+
+## 📱 QR Ticket
+
+<p align="center">
+<img src="IMAGE_LINK" width="55%">
+</p>
+
+---
+
+# 🛠️ Admin Dashboard
+
+---
+
+## 📊 Dashboard
+
+<p align="center">
+<img src="IMAGE_LINK" width="90%">
+</p>
+
+---
+
+## 🎬 Movie Management
+
+<p align="center">
+<img src="IMAGE_LINK" width="90%">
+</p>
+
+---
+
+## 🎭 Show Management
+
+<p align="center">
+<img src="IMAGE_LINK" width="90%">
+</p>
+
+---
+
+## 🍿 Snack Management
+
+<p align="center">
+<img src="IMAGE_LINK" width="90%">
+</p>
+
+---
+
+## 🚗 Parking Management
+
+<p align="center">
+<img src="IMAGE_LINK" width="90%">
+</p>
+
+---
+
+## 📈 Revenue Analytics
+
+<p align="center">
+<img src="IMAGE_LINK" width="90%">
+</p>
+
+---
+
+## 📊 Revenue Reports
+
+<p align="center">
+<img src="IMAGE_LINK" width="90%">
+</p>
+
+---
+
+## 🎫 Ticket Verification
+
+<p align="center">
+<img src="IMAGE_LINK" width="90%">
+</p>
+
+---
+
+## 📱 QR Code Scanner
+
+<p align="center">
+<img src="IMAGE_LINK" width="90%">
+</p>
+
+---
+
+## 👤 User Management
+
+<p align="center">
+<img src="IMAGE_LINK" width="90%">
+</p>
+
+---
+
+## ⚙️ System Settings
+
+<p align="center">
+<img src="IMAGE_LINK" width="90%">
+</p>
+
 
 
 
