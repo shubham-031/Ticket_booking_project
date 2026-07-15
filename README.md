@@ -1,4 +1,9 @@
+### 🚀 Live Demo
 
+🌐 **Project Demo:** https://movie-booking-system-mern-fawn.vercel.app/
+
+</p>
+---
 # 🎬 CineBook - MOVIE TICKET BOOKING MANAGEMENT SYSTEM 
 ( Movie Booking & Theatre Management System)
 ---
